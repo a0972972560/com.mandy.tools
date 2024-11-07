@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.mandy.tools",
+  "version": "1.0.0",
+  "displayName": "mandy 工具包",
+  "description": "提供載入場景與退出遊戲功能",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "mandy",
+    "email": "a0972972560@gmail.com",
+    "url": ""
+  }
+}
